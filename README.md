@@ -1,5 +1,3 @@
-![image](https://github.com/KDSCRIPT/Bootstrap-Sass-Portfolio-practice/assets/121747344/aacdb490-109d-47e3-b8b1-586f5a64c76f)# Bootstrap-Sass-Portfolio-practice
-
 This repository consists of a portfolio site project I made through an online tutorial using Sass and Bootstrap.
 
 Portfolio Site Project Credits and youtube course which taught me Sass and Bootstrap: 
